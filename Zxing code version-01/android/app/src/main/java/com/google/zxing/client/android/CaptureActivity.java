@@ -42,6 +42,7 @@ import android.content.res.Configuration;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
+import android.graphics.Color;
 import android.graphics.Paint;
 import android.net.Uri;
 import android.os.Bundle;
@@ -825,6 +826,8 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
       statusView.setText("QR 코드를 스캔해주세요.");
       QRcodeButton.setText("Barcode Scan");
     }else{
+/*      String strColor = "#1A237E";
+      contentsTextView.setTextColor(Color.parseColor(strColor));*/
       statusView.setText("바코드를 스캔해주세요.");
       QRcodeButton.setText("QRcode Scan");
     }

@@ -3,10 +3,106 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.google.zxing.client.android.list.ListActivity">
+    tools:context="com.google.zxing.client.android.list.ListActivity"
+    android:background="@drawable/codeback">
+
+
+    <TextView
+        android:id="@+id/titleLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="QRcode-Barcode"
+        android:textColor="#ffffffff"
+        android:textStyle="bold"
+        android:textSize="24dp"
+        android:layout_alignParentTop="true"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:gravity="center_horizontal"
+        android:text="Please check the code again!"
+        android:textColor="#ffffffff"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_alignParentTop="true"/>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:padding="10dp"
+        android:background="#aaffffff">
+
+        <TextView
+            android:id="@+id/QRcodeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="4dp"
+            android:text="QR-code : "
+            android:textStyle="bold"
+            android:textColor="#ff222222"
+            android:textSize="18dp"/>
+
+        <TextView
+            android:id="@+id/QRcodeTextInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/QRcodeText"
+            android:layout_alignBaseline="@+id/QRcodeText"
+            android:layout_marginLeft="4dp"
+            android:textColor="#BF360C"
+            android:textSize="14dp"/>
+
+        <TextView
+            android:id="@+id/BarcodeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:layout_below="@+id/QRcodeText"
+            android:textStyle="bold"
+            android:text="Barcode : "
+            android:textColor="#ff222222"
+            android:textSize="18dp"/>
+
+        <TextView
+            android:id="@+id/BarcodeTextInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_toRightOf="@id/BarcodeText"
+            android:layout_alignBaseline="@id/BarcodeText"
+            android:textColor="#33691E"
+            android:textSize="14dp"
+            />
+
+        <Button
+            android:id="@+id/cancelButton"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/BarcodeText"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="16dp"
+            android:text="Cancel" />
+
+        <Button
+            android:id="@+id/saveButton"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/BarcodeText"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="16dp"
+            android:text="Save"/>
+
+
+
+    </RelativeLayout>
+
 
 </RelativeLayout>
