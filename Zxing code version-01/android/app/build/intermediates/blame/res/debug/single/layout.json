@@ -84,6 +84,10 @@
         "source": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
+        "merged": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
         "merged": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },

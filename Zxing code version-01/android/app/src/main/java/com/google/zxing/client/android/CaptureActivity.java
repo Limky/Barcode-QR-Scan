@@ -26,6 +26,7 @@ import com.google.zxing.client.android.clipboard.ClipboardInterface;
 import com.google.zxing.client.android.history.HistoryActivity;
 import com.google.zxing.client.android.history.HistoryItem;
 import com.google.zxing.client.android.history.HistoryManager;
+import com.google.zxing.client.android.list.ListActivity;
 import com.google.zxing.client.android.result.ResultButtonListener;
 import com.google.zxing.client.android.result.ResultHandler;
 import com.google.zxing.client.android.result.ResultHandlerFactory;
@@ -71,6 +72,9 @@ import java.util.Collection;
 import java.util.Date;
 import java.util.EnumSet;
 import java.util.Map;
+import com.google.zxing.client.android.domain.ScancodeDomain;
+
+import com.google.zxing.client.android.list.ListActivity;
 
 /**
  * This activity opens the camera and does the actual scanning on a background thread. It draws a
@@ -118,6 +122,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
   private AmbientLightManager ambientLightManager;
   private Button QRcodeButton;
   private boolean statusQR;
+  public  ScancodeDomain scancodeDomain;
 
   ViewfinderView getViewfinderView() {
     return viewfinderView;
@@ -147,6 +152,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     QRcodeButton = (Button)findViewById(R.id.QRcodeButton);
     setListeners();
     statusQR = false;
+    scancodeDomain = new ScancodeDomain();
 
     PreferenceManager.setDefaultValues(this, R.xml.preferences, false);
   }
@@ -180,7 +186,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
   @Override
   protected void onResume() {
     super.onResume();
-    
+
     // historyManager must be initialized here to update the history preference
     historyManager = new HistoryManager(this);
     historyManager.trimHistory();
@@ -255,7 +261,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
             cameraManager.setManualCameraId(cameraId);
           }
         }
-        
+
         String customPromptMessage = intent.getStringExtra(Intents.Scan.PROMPT_MESSAGE);
         if (customPromptMessage != null) {
           statusView.setText(customPromptMessage);
@@ -320,7 +326,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
       }
     }
   }
-  
+
   private static boolean isZXingURL(String dataString) {
     if (dataString == null) {
       return false;
@@ -551,10 +557,10 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
 
   private static void drawLine(Canvas canvas, Paint paint, ResultPoint a, ResultPoint b, float scaleFactor) {
     if (a != null && b != null) {
-      canvas.drawLine(scaleFactor * a.getX(), 
-                      scaleFactor * a.getY(), 
-                      scaleFactor * b.getX(), 
-                      scaleFactor * b.getY(), 
+      canvas.drawLine(scaleFactor * a.getX(),
+                      scaleFactor * a.getY(),
+                      scaleFactor * b.getX(),
+                      scaleFactor * b.getY(),
                       paint);
     }
   }
@@ -623,6 +629,19 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     int scaledSize = Math.max(22, 32 - displayContents.length() / 4);
     contentsTextView.setTextSize(TypedValue.COMPLEX_UNIT_SP, scaledSize);
 
+
+    if(statusQR){
+
+      scancodeDomain.setQRcode(displayContents.toString());
+    }else{
+
+      scancodeDomain.setBarcode(displayContents.toString());
+    }
+
+
+    Toast.makeText(getApplicationContext(),scancodeDomain.getBarcode()+"==="+scancodeDomain.getQRcode(),Toast.LENGTH_SHORT).show();
+
+
     TextView supplementTextView = (TextView) findViewById(R.id.contents_supplement_text_view);
     supplementTextView.setText("");
     supplementTextView.setOnClickListener(null);
@@ -649,6 +668,15 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     }*/
     Toast.makeText(getApplicationContext(),"결과 출력 끝? 지점.",Toast.LENGTH_SHORT).show();
 
+    if((!scancodeDomain.getQRcode().equals("디폴트") && !scancodeDomain.getBarcode().equals("디폴트"))){
+
+        Intent intent = new Intent(this, ListActivity.class);
+        intent.putExtra("barcode",scancodeDomain.getBarcode());
+        intent.putExtra("QRcode",scancodeDomain.getQRcode());
+/*        intent.putExtra("scancodeDomain", (ScancodeDomain) scancodeDomaind);*/
+        startActivity(intent);
+
+    }
 
   }
 
@@ -681,7 +709,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     }
 
     if (source == IntentSource.NATIVE_APP_INTENT) {
-      
+
       // Hand back whatever action they requested - this can be changed to Intents.Scan.ACTION when
       // the deprecated intent is retired.
       Intent intent = new Intent(getIntent().getAction());
@@ -717,15 +745,15 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
         }
       }
       sendReplyMessage(R.id.return_scan_result, intent, resultDurationMS);
-      
+
     } else if (source == IntentSource.PRODUCT_SEARCH_LINK) {
-      
+
       // Reformulate the URL which triggered us into a query, so that the request goes to the same
       // TLD as the scan URL.
       int end = sourceUrl.lastIndexOf("/scan");
-      String replyURL = sourceUrl.substring(0, end) + "?q=" + resultHandler.getDisplayContents() + "&source=zxing";      
+      String replyURL = sourceUrl.substring(0, end) + "?q=" + resultHandler.getDisplayContents() + "&source=zxing";
       sendReplyMessage(R.id.launch_product_query, replyURL, resultDurationMS);
-      
+
     } else if (source == IntentSource.ZXING_LINK) {
 
       if (scanFromWebPageManager != null && scanFromWebPageManager.isScanFromWebPage()) {
@@ -733,10 +761,10 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
         scanFromWebPageManager = null;
         sendReplyMessage(R.id.launch_product_query, replyURL, resultDurationMS);
       }
-      
+
     }
   }
-  
+
   private void sendReplyMessage(int id, Object arg, long delayMS) {
     if (handler != null) {
       Message message = Message.obtain(handler, id, arg);
