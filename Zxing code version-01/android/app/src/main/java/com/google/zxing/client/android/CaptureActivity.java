@@ -60,6 +60,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -115,6 +116,8 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
   private InactivityTimer inactivityTimer;
   private BeepManager beepManager;
   private AmbientLightManager ambientLightManager;
+  private Button QRcodeButton;
+  private boolean statusQR;
 
   ViewfinderView getViewfinderView() {
     return viewfinderView;
@@ -141,8 +144,38 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     beepManager = new BeepManager(this);
     ambientLightManager = new AmbientLightManager(this);
 
+    QRcodeButton = (Button)findViewById(R.id.QRcodeButton);
+    setListeners();
+    statusQR = false;
+
     PreferenceManager.setDefaultValues(this, R.xml.preferences, false);
   }
+
+  private void setListeners()
+  {
+    QRcodeButton.setOnClickListener(QRcodeScan_Listener);
+
+  }
+
+
+  private Button.OnClickListener QRcodeScan_Listener = new Button.OnClickListener()
+  {
+    public void onClick(View v)
+    {
+      statusQR = !statusQR;
+
+      if (source == IntentSource.NATIVE_APP_INTENT) {
+        setResult(RESULT_CANCELED);
+        finish();
+      }
+      if ((source == IntentSource.NONE || source == IntentSource.ZXING_LINK) && lastResult != null) {
+        restartPreviewAfterDelay(0L);
+
+      }
+
+    }
+  };
+
 
   @Override
   protected void onResume() {
@@ -176,6 +209,8 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     }
 
     resetStatusView();
+
+
 
 
     beepManager.updatePrefs();
@@ -599,7 +634,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
                                                      this);
     }
 
-    int buttonCount = resultHandler.getButtonCount();
+    /*int buttonCount = resultHandler.getButtonCount();
     ViewGroup buttonView = (ViewGroup) findViewById(R.id.result_button_view);
     buttonView.requestFocus();
     for (int x = 0; x < ResultHandler.MAX_BUTTON_COUNT; x++) {
@@ -611,8 +646,8 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
       } else {
         button.setVisibility(View.GONE);
       }
-    }
-
+    }*/
+    Toast.makeText(getApplicationContext(),"결과 출력 끝? 지점.",Toast.LENGTH_SHORT).show();
 
 
   }
@@ -752,12 +787,19 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     if (handler != null) {
       handler.sendEmptyMessageDelayed(R.id.restart_preview, delayMS);
     }
+    Toast.makeText(getApplicationContext(),"ReStart  Spot.",Toast.LENGTH_SHORT).show();
     resetStatusView();
   }
 
   private void resetStatusView() {
     resultView.setVisibility(View.GONE);
-    statusView.setText(R.string.msg_default_status);
+    if(statusQR){
+      statusView.setText("QR 코드를 스캔해주세요.");
+      QRcodeButton.setText("Barcode Scan");
+    }else{
+      statusView.setText("바코드를 스캔해주세요.");
+      QRcodeButton.setText("QRcode Scan");
+    }
     statusView.setVisibility(View.VISIBLE);
     viewfinderView.setVisibility(View.VISIBLE);
     lastResult = null;

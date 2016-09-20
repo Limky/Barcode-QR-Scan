@@ -41,7 +41,7 @@
               android:layout_height="wrap_content"
               android:layout_gravity="center_vertical"
               android:gravity="center"
-              android:textColor="@color/contents_text"
+              android:textColor="@color/result_points"
               android:paddingRight="8dip"
               android:paddingTop="8dip"
               android:paddingBottom="8dip"
