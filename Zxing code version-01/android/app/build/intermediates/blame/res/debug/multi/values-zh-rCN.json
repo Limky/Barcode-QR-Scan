@@ -6,9 +6,9 @@
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endColumn": 95,
-                    "endOffset": 146
+                    "endOffset": 196
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -25,9 +25,9 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 151,
+                    "startOffset": 201,
                     "endColumn": 106,
-                    "endOffset": 253
+                    "endOffset": 303
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -44,9 +44,9 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 258,
+                    "startOffset": 308,
                     "endColumn": 122,
-                    "endOffset": 376
+                    "endOffset": 426
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -63,9 +63,9 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 381,
+                    "startOffset": 431,
                     "endColumn": 94,
-                    "endOffset": 471
+                    "endOffset": 521
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -82,9 +82,9 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 476,
+                    "startOffset": 526,
                     "endColumn": 99,
-                    "endOffset": 571
+                    "endOffset": 621
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -101,9 +101,9 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 576,
+                    "startOffset": 626,
                     "endColumn": 81,
-                    "endOffset": 653
+                    "endOffset": 703
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -120,9 +120,9 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 658,
+                    "startOffset": 708,
                     "endColumn": 96,
-                    "endOffset": 750
+                    "endOffset": 800
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -139,9 +139,9 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 755,
+                    "startOffset": 805,
                     "endColumn": 105,
-                    "endOffset": 856
+                    "endOffset": 906
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -158,9 +158,9 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 861,
+                    "startOffset": 911,
                     "endColumn": 75,
-                    "endOffset": 932
+                    "endOffset": 982
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -177,9 +177,9 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 937,
+                    "startOffset": 987,
                     "endColumn": 75,
-                    "endOffset": 1008
+                    "endOffset": 1058
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -196,9 +196,9 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1013,
+                    "startOffset": 1063,
                     "endColumn": 77,
-                    "endOffset": 1086
+                    "endOffset": 1136
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -215,9 +215,9 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1091,
+                    "startOffset": 1141,
                     "endColumn": 95,
-                    "endOffset": 1182
+                    "endOffset": 1232
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -234,9 +234,9 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1187,
+                    "startOffset": 1237,
                     "endColumn": 95,
-                    "endOffset": 1278
+                    "endOffset": 1328
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -253,9 +253,9 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1283,
+                    "startOffset": 1333,
                     "endColumn": 94,
-                    "endOffset": 1373
+                    "endOffset": 1423
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -272,9 +272,9 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1378,
+                    "startOffset": 1428,
                     "endColumn": 96,
-                    "endOffset": 1470
+                    "endOffset": 1520
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -291,9 +291,9 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1475,
+                    "startOffset": 1525,
                     "endColumn": 94,
-                    "endOffset": 1565
+                    "endOffset": 1615
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -310,9 +310,9 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1570,
+                    "startOffset": 1620,
                     "endColumn": 97,
-                    "endOffset": 1663
+                    "endOffset": 1713
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -329,9 +329,9 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1668,
+                    "startOffset": 1718,
                     "endColumn": 111,
-                    "endOffset": 1775
+                    "endOffset": 1825
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -348,9 +348,9 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1780,
+                    "startOffset": 1830,
                     "endColumn": 93,
-                    "endOffset": 1869
+                    "endOffset": 1919
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -367,9 +367,9 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1874,
+                    "startOffset": 1924,
                     "endColumn": 42,
-                    "endOffset": 1912
+                    "endOffset": 1962
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -386,9 +386,9 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1917,
+                    "startOffset": 1967,
                     "endColumn": 46,
-                    "endOffset": 1959
+                    "endOffset": 2009
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -405,9 +405,9 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1964,
+                    "startOffset": 2014,
                     "endColumn": 51,
-                    "endOffset": 2011
+                    "endOffset": 2061
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -424,9 +424,9 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2016,
+                    "startOffset": 2066,
                     "endColumn": 54,
-                    "endOffset": 2066
+                    "endOffset": 2116
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -443,9 +443,9 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2071,
+                    "startOffset": 2121,
                     "endColumn": 52,
-                    "endOffset": 2119
+                    "endOffset": 2169
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -462,9 +462,9 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2124,
+                    "startOffset": 2174,
                     "endColumn": 53,
-                    "endOffset": 2173
+                    "endOffset": 2223
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -481,9 +481,9 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2178,
+                    "startOffset": 2228,
                     "endColumn": 44,
-                    "endOffset": 2218
+                    "endOffset": 2268
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -500,9 +500,9 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2223,
+                    "startOffset": 2273,
                     "endColumn": 62,
-                    "endOffset": 2281
+                    "endOffset": 2331
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -519,9 +519,9 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2286,
+                    "startOffset": 2336,
                     "endColumn": 44,
-                    "endOffset": 2326
+                    "endOffset": 2376
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -538,9 +538,9 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2331,
+                    "startOffset": 2381,
                     "endColumn": 50,
-                    "endOffset": 2377
+                    "endOffset": 2427
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -557,9 +557,9 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2382,
+                    "startOffset": 2432,
                     "endColumn": 54,
-                    "endOffset": 2432
+                    "endOffset": 2482
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -576,9 +576,9 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2437,
+                    "startOffset": 2487,
                     "endColumn": 43,
-                    "endOffset": 2476
+                    "endOffset": 2526
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -595,9 +595,9 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2481,
+                    "startOffset": 2531,
                     "endColumn": 40,
-                    "endOffset": 2517
+                    "endOffset": 2567
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -614,9 +614,9 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2522,
+                    "startOffset": 2572,
                     "endColumn": 53,
-                    "endOffset": 2571
+                    "endOffset": 2621
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -633,9 +633,9 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2576,
+                    "startOffset": 2626,
                     "endColumn": 56,
-                    "endOffset": 2628
+                    "endOffset": 2678
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -652,9 +652,9 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2633,
+                    "startOffset": 2683,
                     "endColumn": 62,
-                    "endOffset": 2691
+                    "endOffset": 2741
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -671,9 +671,9 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2696,
+                    "startOffset": 2746,
                     "endColumn": 49,
-                    "endOffset": 2741
+                    "endOffset": 2791
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -690,9 +690,9 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2746,
+                    "startOffset": 2796,
                     "endColumn": 54,
-                    "endOffset": 2796
+                    "endOffset": 2846
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -709,9 +709,9 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2801,
+                    "startOffset": 2851,
                     "endColumn": 62,
-                    "endOffset": 2859
+                    "endOffset": 2909
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -728,9 +728,9 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 2864,
+                    "startOffset": 2914,
                     "endColumn": 54,
-                    "endOffset": 2914
+                    "endOffset": 2964
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -747,9 +747,9 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2919,
+                    "startOffset": 2969,
                     "endColumn": 56,
-                    "endOffset": 2971
+                    "endOffset": 3021
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -766,9 +766,9 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2976,
+                    "startOffset": 3026,
                     "endColumn": 54,
-                    "endOffset": 3026
+                    "endOffset": 3076
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -785,9 +785,9 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 3031,
+                    "startOffset": 3081,
                     "endColumn": 48,
-                    "endOffset": 3075
+                    "endOffset": 3125
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -804,9 +804,9 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3080,
+                    "startOffset": 3130,
                     "endColumn": 43,
-                    "endOffset": 3119
+                    "endOffset": 3169
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -823,9 +823,9 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 3124,
+                    "startOffset": 3174,
                     "endColumn": 50,
-                    "endOffset": 3170
+                    "endOffset": 3220
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -842,9 +842,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3175,
+                    "startOffset": 3225,
                     "endColumn": 45,
-                    "endOffset": 3216
+                    "endOffset": 3266
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -861,9 +861,389 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 3221,
+                    "startOffset": 3271,
+                    "endColumn": 102,
+                    "endOffset": 3369
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 102,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3374,
+                    "endColumn": 160,
+                    "endOffset": 3530
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 160,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3535,
+                    "endColumn": 116,
+                    "endOffset": 3647
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 597,
+                        "endColumn": 116,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3652,
+                    "endColumn": 118,
+                    "endOffset": 3766
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 714,
+                        "endColumn": 118,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3771,
+                    "endColumn": 169,
+                    "endOffset": 3936
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 169,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3941,
+                    "endColumn": 172,
+                    "endOffset": 4109
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1003,
+                        "endColumn": 172,
+                        "endOffset": 1171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4114,
+                    "endColumn": 117,
+                    "endOffset": 4227
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1176,
+                        "endColumn": 117,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4232,
+                    "endColumn": 120,
+                    "endOffset": 4348
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 120,
+                        "endOffset": 1410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4353,
+                    "endColumn": 175,
+                    "endOffset": 4524
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 175,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4529,
+                    "endColumn": 189,
+                    "endOffset": 4714
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1415,
+                        "endColumn": 189,
+                        "endOffset": 1600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4719,
+                    "endColumn": 116,
+                    "endOffset": 4831
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1605,
+                        "endColumn": 116,
+                        "endOffset": 1717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4836,
+                    "endColumn": 102,
+                    "endOffset": 4934
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1722,
+                        "endColumn": 102,
+                        "endOffset": 1820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4939,
+                    "endColumn": 160,
+                    "endOffset": 5095
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1825,
+                        "endColumn": 160,
+                        "endOffset": 1981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5100,
+                    "endColumn": 116,
+                    "endOffset": 5212
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1986,
+                        "endColumn": 116,
+                        "endOffset": 2098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5217,
+                    "endColumn": 162,
+                    "endOffset": 5375
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2103,
+                        "endColumn": 162,
+                        "endOffset": 2261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5380,
+                    "endColumn": 119,
+                    "endOffset": 5495
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2266,
+                        "endColumn": 119,
+                        "endOffset": 2381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5500,
+                    "endColumn": 137,
+                    "endOffset": 5633
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2386,
+                        "endColumn": 137,
+                        "endOffset": 2519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5638,
+                    "endColumn": 85,
+                    "endOffset": 5719
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2524,
+                        "endColumn": 85,
+                        "endOffset": 2605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5724,
+                    "endColumn": 86,
+                    "endOffset": 5806
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2610,
+                        "endColumn": 86,
+                        "endOffset": 2692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5811,
+                    "endColumn": 102,
+                    "endOffset": 5909
+                },
+                "from": {
+                    "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2697,
+                        "endColumn": 102,
+                        "endOffset": 2795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5914,
                     "endColumn": 50,
-                    "endOffset": 3267
+                    "endOffset": 5960
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -878,11 +1258,11 @@
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 3272,
+                    "startOffset": 5965,
                     "endColumn": 52,
-                    "endOffset": 3320
+                    "endOffset": 6013
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -897,11 +1277,11 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 3325,
+                    "startOffset": 6018,
                     "endColumn": 49,
-                    "endOffset": 3370
+                    "endOffset": 6063
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -916,11 +1296,11 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 3375,
+                    "startOffset": 6068,
                     "endColumn": 47,
-                    "endOffset": 3418
+                    "endOffset": 6111
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -935,11 +1315,11 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 3423,
+                    "startOffset": 6116,
                     "endColumn": 45,
-                    "endOffset": 3464
+                    "endOffset": 6157
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -954,11 +1334,11 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 3469,
+                    "startOffset": 6162,
                     "endColumn": 45,
-                    "endOffset": 3510
+                    "endOffset": 6203
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -973,11 +1353,11 @@
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 3515,
+                    "startOffset": 6208,
                     "endColumn": 61,
-                    "endOffset": 3572
+                    "endOffset": 6265
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -992,11 +1372,11 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 3577,
+                    "startOffset": 6270,
                     "endColumn": 53,
-                    "endOffset": 3626
+                    "endOffset": 6319
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1011,11 +1391,11 @@
             },
             {
                 "to": {
-                    "startLine": 55,
+                    "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 3631,
+                    "startOffset": 6324,
                     "endColumn": 56,
-                    "endOffset": 3683
+                    "endOffset": 6376
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1030,11 +1410,11 @@
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 3688,
+                    "startOffset": 6381,
                     "endColumn": 43,
-                    "endOffset": 3727
+                    "endOffset": 6420
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1049,11 +1429,11 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 3732,
+                    "startOffset": 6425,
                     "endColumn": 55,
-                    "endOffset": 3783
+                    "endOffset": 6476
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1068,11 +1448,11 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 3788,
+                    "startOffset": 6481,
                     "endColumn": 47,
-                    "endOffset": 3831
+                    "endOffset": 6524
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1087,11 +1467,11 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 3836,
+                    "startOffset": 6529,
                     "endColumn": 46,
-                    "endOffset": 3878
+                    "endOffset": 6571
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1106,11 +1486,11 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 3883,
+                    "startOffset": 6576,
                     "endColumn": 55,
-                    "endOffset": 3934
+                    "endOffset": 6627
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1125,11 +1505,11 @@
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 3939,
+                    "startOffset": 6632,
                     "endColumn": 53,
-                    "endOffset": 3988
+                    "endOffset": 6681
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1144,11 +1524,11 @@
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 3993,
+                    "startOffset": 6686,
                     "endColumn": 40,
-                    "endOffset": 4029
+                    "endOffset": 6722
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1163,11 +1543,11 @@
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 4034,
+                    "startOffset": 6727,
                     "endColumn": 45,
-                    "endOffset": 4075
+                    "endOffset": 6768
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1182,11 +1562,11 @@
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 4080,
+                    "startOffset": 6773,
                     "endColumn": 44,
-                    "endOffset": 4120
+                    "endOffset": 6813
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1201,11 +1581,11 @@
             },
             {
                 "to": {
-                    "startLine": 65,
+                    "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 4125,
+                    "startOffset": 6818,
                     "endColumn": 44,
-                    "endOffset": 4165
+                    "endOffset": 6858
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1220,11 +1600,11 @@
             },
             {
                 "to": {
-                    "startLine": 66,
+                    "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 4170,
+                    "startOffset": 6863,
                     "endColumn": 65,
-                    "endOffset": 4231
+                    "endOffset": 6924
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1239,11 +1619,11 @@
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 4236,
+                    "startOffset": 6929,
                     "endColumn": 82,
-                    "endOffset": 4314
+                    "endOffset": 7007
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1258,11 +1638,11 @@
             },
             {
                 "to": {
-                    "startLine": 68,
+                    "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 4319,
+                    "startOffset": 7012,
                     "endColumn": 49,
-                    "endOffset": 4364
+                    "endOffset": 7057
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1277,11 +1657,11 @@
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 89,
                     "startColumn": 4,
-                    "startOffset": 4369,
+                    "startOffset": 7062,
                     "endColumn": 48,
-                    "endOffset": 4413
+                    "endOffset": 7106
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1296,11 +1676,11 @@
             },
             {
                 "to": {
-                    "startLine": 70,
+                    "startLine": 90,
                     "startColumn": 4,
-                    "startOffset": 4418,
+                    "startOffset": 7111,
                     "endColumn": 54,
-                    "endOffset": 4468
+                    "endOffset": 7161
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1315,11 +1695,11 @@
             },
             {
                 "to": {
-                    "startLine": 71,
+                    "startLine": 91,
                     "startColumn": 4,
-                    "startOffset": 4473,
+                    "startOffset": 7166,
                     "endColumn": 62,
-                    "endOffset": 4531
+                    "endOffset": 7224
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1334,11 +1714,11 @@
             },
             {
                 "to": {
-                    "startLine": 72,
+                    "startLine": 92,
                     "startColumn": 4,
-                    "startOffset": 4536,
+                    "startOffset": 7229,
                     "endColumn": 47,
-                    "endOffset": 4579
+                    "endOffset": 7272
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1353,11 +1733,11 @@
             },
             {
                 "to": {
-                    "startLine": 73,
+                    "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 4584,
+                    "startOffset": 7277,
                     "endColumn": 47,
-                    "endOffset": 4627
+                    "endOffset": 7320
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1372,11 +1752,11 @@
             },
             {
                 "to": {
-                    "startLine": 74,
+                    "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 4632,
+                    "startOffset": 7325,
                     "endColumn": 62,
-                    "endOffset": 4690
+                    "endOffset": 7383
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1391,11 +1771,11 @@
             },
             {
                 "to": {
-                    "startLine": 75,
+                    "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 4695,
+                    "startOffset": 7388,
                     "endColumn": 40,
-                    "endOffset": 4731
+                    "endOffset": 7424
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1410,11 +1790,11 @@
             },
             {
                 "to": {
-                    "startLine": 76,
+                    "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 4736,
+                    "startOffset": 7429,
                     "endColumn": 51,
-                    "endOffset": 4783
+                    "endOffset": 7476
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1429,11 +1809,11 @@
             },
             {
                 "to": {
-                    "startLine": 77,
+                    "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 4788,
+                    "startOffset": 7481,
                     "endColumn": 53,
-                    "endOffset": 4837
+                    "endOffset": 7530
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1448,11 +1828,11 @@
             },
             {
                 "to": {
-                    "startLine": 78,
+                    "startLine": 98,
                     "startColumn": 4,
-                    "startOffset": 4842,
+                    "startOffset": 7535,
                     "endColumn": 65,
-                    "endOffset": 4903
+                    "endOffset": 7596
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1467,11 +1847,11 @@
             },
             {
                 "to": {
-                    "startLine": 79,
+                    "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 4908,
+                    "startOffset": 7601,
                     "endColumn": 49,
-                    "endOffset": 4953
+                    "endOffset": 7646
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1486,11 +1866,11 @@
             },
             {
                 "to": {
-                    "startLine": 80,
+                    "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 4958,
+                    "startOffset": 7651,
                     "endColumn": 44,
-                    "endOffset": 4998
+                    "endOffset": 7691
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1505,11 +1885,11 @@
             },
             {
                 "to": {
-                    "startLine": 81,
+                    "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 5003,
+                    "startOffset": 7696,
                     "endColumn": 67,
-                    "endOffset": 5066
+                    "endOffset": 7759
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1524,11 +1904,11 @@
             },
             {
                 "to": {
-                    "startLine": 82,
+                    "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 5071,
+                    "startOffset": 7764,
                     "endColumn": 54,
-                    "endOffset": 5121
+                    "endOffset": 7814
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1543,11 +1923,11 @@
             },
             {
                 "to": {
-                    "startLine": 83,
+                    "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 5126,
+                    "startOffset": 7819,
                     "endColumn": 58,
-                    "endOffset": 5180
+                    "endOffset": 7873
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1562,11 +1942,11 @@
             },
             {
                 "to": {
-                    "startLine": 84,
+                    "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 5185,
+                    "startOffset": 7878,
                     "endColumn": 43,
-                    "endOffset": 5224
+                    "endOffset": 7917
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1581,11 +1961,11 @@
             },
             {
                 "to": {
-                    "startLine": 85,
+                    "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 5229,
+                    "startOffset": 7922,
                     "endColumn": 46,
-                    "endOffset": 5271
+                    "endOffset": 7964
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1600,11 +1980,11 @@
             },
             {
                 "to": {
-                    "startLine": 86,
+                    "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 5276,
+                    "startOffset": 7969,
                     "endColumn": 56,
-                    "endOffset": 5328
+                    "endOffset": 8021
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1619,11 +1999,11 @@
             },
             {
                 "to": {
-                    "startLine": 87,
+                    "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 5333,
+                    "startOffset": 8026,
                     "endColumn": 61,
-                    "endOffset": 5390
+                    "endOffset": 8083
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1638,11 +2018,11 @@
             },
             {
                 "to": {
-                    "startLine": 88,
+                    "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 5395,
+                    "startOffset": 8088,
                     "endColumn": 86,
-                    "endOffset": 5477
+                    "endOffset": 8170
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1657,11 +2037,11 @@
             },
             {
                 "to": {
-                    "startLine": 89,
+                    "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 5482,
+                    "startOffset": 8175,
                     "endColumn": 50,
-                    "endOffset": 5528
+                    "endOffset": 8221
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1676,11 +2056,11 @@
             },
             {
                 "to": {
-                    "startLine": 90,
+                    "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 5533,
+                    "startOffset": 8226,
                     "endColumn": 41,
-                    "endOffset": 5570
+                    "endOffset": 8263
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1695,11 +2075,11 @@
             },
             {
                 "to": {
-                    "startLine": 91,
+                    "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 5575,
+                    "startOffset": 8268,
                     "endColumn": 57,
-                    "endOffset": 5628
+                    "endOffset": 8321
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1714,11 +2094,11 @@
             },
             {
                 "to": {
-                    "startLine": 92,
+                    "startLine": 112,
                     "startColumn": 4,
-                    "startOffset": 5633,
+                    "startOffset": 8326,
                     "endColumn": 58,
-                    "endOffset": 5687
+                    "endOffset": 8380
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1733,11 +2113,11 @@
             },
             {
                 "to": {
-                    "startLine": 93,
+                    "startLine": 113,
                     "startColumn": 4,
-                    "startOffset": 5692,
+                    "startOffset": 8385,
                     "endColumn": 61,
-                    "endOffset": 5749
+                    "endOffset": 8442
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1752,11 +2132,11 @@
             },
             {
                 "to": {
-                    "startLine": 94,
+                    "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 5754,
+                    "startOffset": 8447,
                     "endColumn": 66,
-                    "endOffset": 5816
+                    "endOffset": 8509
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1771,11 +2151,11 @@
             },
             {
                 "to": {
-                    "startLine": 95,
+                    "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 5821,
+                    "startOffset": 8514,
                     "endColumn": 69,
-                    "endOffset": 5886
+                    "endOffset": 8579
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1790,11 +2170,11 @@
             },
             {
                 "to": {
-                    "startLine": 96,
+                    "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 5891,
+                    "startOffset": 8584,
                     "endColumn": 62,
-                    "endOffset": 5949
+                    "endOffset": 8642
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1809,11 +2189,11 @@
             },
             {
                 "to": {
-                    "startLine": 97,
+                    "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 5954,
+                    "startOffset": 8647,
                     "endColumn": 70,
-                    "endOffset": 6020
+                    "endOffset": 8713
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1828,11 +2208,11 @@
             },
             {
                 "to": {
-                    "startLine": 98,
+                    "startLine": 118,
                     "startColumn": 4,
-                    "startOffset": 6025,
+                    "startOffset": 8718,
                     "endColumn": 108,
-                    "endOffset": 6129
+                    "endOffset": 8822
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1847,11 +2227,11 @@
             },
             {
                 "to": {
-                    "startLine": 99,
+                    "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 6134,
+                    "startOffset": 8827,
                     "endColumn": 75,
-                    "endOffset": 6205
+                    "endOffset": 8898
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1866,11 +2246,11 @@
             },
             {
                 "to": {
-                    "startLine": 100,
+                    "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 6210,
+                    "startOffset": 8903,
                     "endColumn": 73,
-                    "endOffset": 6279
+                    "endOffset": 8972
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1885,11 +2265,11 @@
             },
             {
                 "to": {
-                    "startLine": 101,
+                    "startLine": 121,
                     "startColumn": 4,
-                    "startOffset": 6284,
+                    "startOffset": 8977,
                     "endColumn": 70,
-                    "endOffset": 6350
+                    "endOffset": 9043
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1904,11 +2284,11 @@
             },
             {
                 "to": {
-                    "startLine": 102,
+                    "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 6355,
+                    "startOffset": 9048,
                     "endColumn": 64,
-                    "endOffset": 6415
+                    "endOffset": 9108
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1923,11 +2303,11 @@
             },
             {
                 "to": {
-                    "startLine": 103,
+                    "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 6420,
+                    "startOffset": 9113,
                     "endColumn": 76,
-                    "endOffset": 6492
+                    "endOffset": 9185
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1942,11 +2322,11 @@
             },
             {
                 "to": {
-                    "startLine": 104,
+                    "startLine": 124,
                     "startColumn": 4,
-                    "startOffset": 6497,
+                    "startOffset": 9190,
                     "endColumn": 71,
-                    "endOffset": 6564
+                    "endOffset": 9257
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1961,11 +2341,11 @@
             },
             {
                 "to": {
-                    "startLine": 105,
+                    "startLine": 125,
                     "startColumn": 4,
-                    "startOffset": 6569,
+                    "startOffset": 9262,
                     "endColumn": 59,
-                    "endOffset": 6624
+                    "endOffset": 9317
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1980,11 +2360,11 @@
             },
             {
                 "to": {
-                    "startLine": 106,
+                    "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 6629,
+                    "startOffset": 9322,
                     "endColumn": 73,
-                    "endOffset": 6698
+                    "endOffset": 9391
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -1999,11 +2379,11 @@
             },
             {
                 "to": {
-                    "startLine": 107,
+                    "startLine": 127,
                     "startColumn": 4,
-                    "startOffset": 6703,
+                    "startOffset": 9396,
                     "endColumn": 83,
-                    "endOffset": 6782
+                    "endOffset": 9475
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2018,11 +2398,11 @@
             },
             {
                 "to": {
-                    "startLine": 108,
+                    "startLine": 128,
                     "startColumn": 4,
-                    "startOffset": 6787,
+                    "startOffset": 9480,
                     "endColumn": 81,
-                    "endOffset": 6864
+                    "endOffset": 9557
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2037,11 +2417,11 @@
             },
             {
                 "to": {
-                    "startLine": 109,
+                    "startLine": 129,
                     "startColumn": 4,
-                    "startOffset": 6869,
+                    "startOffset": 9562,
                     "endColumn": 76,
-                    "endOffset": 6941
+                    "endOffset": 9634
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2056,11 +2436,11 @@
             },
             {
                 "to": {
-                    "startLine": 110,
+                    "startLine": 130,
                     "startColumn": 4,
-                    "startOffset": 6946,
+                    "startOffset": 9639,
                     "endColumn": 66,
-                    "endOffset": 7008
+                    "endOffset": 9701
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2075,11 +2455,11 @@
             },
             {
                 "to": {
-                    "startLine": 111,
+                    "startLine": 131,
                     "startColumn": 4,
-                    "startOffset": 7013,
+                    "startOffset": 9706,
                     "endColumn": 70,
-                    "endOffset": 7079
+                    "endOffset": 9772
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2094,11 +2474,11 @@
             },
             {
                 "to": {
-                    "startLine": 112,
+                    "startLine": 132,
                     "startColumn": 4,
-                    "startOffset": 7084,
+                    "startOffset": 9777,
                     "endColumn": 59,
-                    "endOffset": 7139
+                    "endOffset": 9832
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2113,11 +2493,11 @@
             },
             {
                 "to": {
-                    "startLine": 113,
+                    "startLine": 133,
                     "startColumn": 4,
-                    "startOffset": 7144,
+                    "startOffset": 9837,
                     "endColumn": 57,
-                    "endOffset": 7197
+                    "endOffset": 9890
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2132,11 +2512,11 @@
             },
             {
                 "to": {
-                    "startLine": 114,
+                    "startLine": 134,
                     "startColumn": 4,
-                    "startOffset": 7202,
+                    "startOffset": 9895,
                     "endColumn": 56,
-                    "endOffset": 7254
+                    "endOffset": 9947
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2151,11 +2531,11 @@
             },
             {
                 "to": {
-                    "startLine": 115,
+                    "startLine": 135,
                     "startColumn": 4,
-                    "startOffset": 7259,
+                    "startOffset": 9952,
                     "endColumn": 67,
-                    "endOffset": 7322
+                    "endOffset": 10015
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2170,11 +2550,11 @@
             },
             {
                 "to": {
-                    "startLine": 116,
+                    "startLine": 136,
                     "startColumn": 4,
-                    "startOffset": 7327,
+                    "startOffset": 10020,
                     "endColumn": 61,
-                    "endOffset": 7384
+                    "endOffset": 10077
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2189,11 +2569,11 @@
             },
             {
                 "to": {
-                    "startLine": 117,
+                    "startLine": 137,
                     "startColumn": 4,
-                    "startOffset": 7389,
+                    "startOffset": 10082,
                     "endColumn": 58,
-                    "endOffset": 7443
+                    "endOffset": 10136
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2208,11 +2588,11 @@
             },
             {
                 "to": {
-                    "startLine": 118,
+                    "startLine": 138,
                     "startColumn": 4,
-                    "startOffset": 7448,
+                    "startOffset": 10141,
                     "endColumn": 67,
-                    "endOffset": 7511
+                    "endOffset": 10204
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2227,11 +2607,11 @@
             },
             {
                 "to": {
-                    "startLine": 119,
+                    "startLine": 139,
                     "startColumn": 4,
-                    "startOffset": 7516,
+                    "startOffset": 10209,
                     "endColumn": 60,
-                    "endOffset": 7572
+                    "endOffset": 10265
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2246,11 +2626,11 @@
             },
             {
                 "to": {
-                    "startLine": 120,
+                    "startLine": 140,
                     "startColumn": 4,
-                    "startOffset": 7577,
+                    "startOffset": 10270,
                     "endColumn": 82,
-                    "endOffset": 7655
+                    "endOffset": 10348
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2265,11 +2645,11 @@
             },
             {
                 "to": {
-                    "startLine": 121,
+                    "startLine": 141,
                     "startColumn": 4,
-                    "startOffset": 7660,
+                    "startOffset": 10353,
                     "endColumn": 60,
-                    "endOffset": 7716
+                    "endOffset": 10409
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2284,11 +2664,11 @@
             },
             {
                 "to": {
-                    "startLine": 122,
+                    "startLine": 142,
                     "startColumn": 4,
-                    "startOffset": 7721,
+                    "startOffset": 10414,
                     "endColumn": 47,
-                    "endOffset": 7764
+                    "endOffset": 10457
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2303,11 +2683,11 @@
             },
             {
                 "to": {
-                    "startLine": 123,
+                    "startLine": 143,
                     "startColumn": 4,
-                    "startOffset": 7769,
+                    "startOffset": 10462,
                     "endColumn": 63,
-                    "endOffset": 7828
+                    "endOffset": 10521
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2322,11 +2702,11 @@
             },
             {
                 "to": {
-                    "startLine": 124,
+                    "startLine": 144,
                     "startColumn": 4,
-                    "startOffset": 7833,
+                    "startOffset": 10526,
                     "endColumn": 61,
-                    "endOffset": 7890
+                    "endOffset": 10583
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2341,11 +2721,11 @@
             },
             {
                 "to": {
-                    "startLine": 125,
+                    "startLine": 145,
                     "startColumn": 4,
-                    "startOffset": 7895,
+                    "startOffset": 10588,
                     "endColumn": 81,
-                    "endOffset": 7972
+                    "endOffset": 10665
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2360,11 +2740,11 @@
             },
             {
                 "to": {
-                    "startLine": 126,
+                    "startLine": 146,
                     "startColumn": 4,
-                    "startOffset": 7977,
+                    "startOffset": 10670,
                     "endColumn": 72,
-                    "endOffset": 8045
+                    "endOffset": 10738
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2379,11 +2759,11 @@
             },
             {
                 "to": {
-                    "startLine": 127,
+                    "startLine": 147,
                     "startColumn": 4,
-                    "startOffset": 8050,
+                    "startOffset": 10743,
                     "endColumn": 57,
-                    "endOffset": 8103
+                    "endOffset": 10796
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2398,11 +2778,11 @@
             },
             {
                 "to": {
-                    "startLine": 128,
+                    "startLine": 148,
                     "startColumn": 4,
-                    "startOffset": 8108,
+                    "startOffset": 10801,
                     "endColumn": 59,
-                    "endOffset": 8163
+                    "endOffset": 10856
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2417,11 +2797,11 @@
             },
             {
                 "to": {
-                    "startLine": 129,
+                    "startLine": 149,
                     "startColumn": 4,
-                    "startOffset": 8168,
+                    "startOffset": 10861,
                     "endColumn": 61,
-                    "endOffset": 8225
+                    "endOffset": 10918
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2436,11 +2816,11 @@
             },
             {
                 "to": {
-                    "startLine": 130,
+                    "startLine": 150,
                     "startColumn": 4,
-                    "startOffset": 8230,
+                    "startOffset": 10923,
                     "endColumn": 76,
-                    "endOffset": 8302
+                    "endOffset": 10995
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2455,11 +2835,11 @@
             },
             {
                 "to": {
-                    "startLine": 131,
+                    "startLine": 151,
                     "startColumn": 4,
-                    "startOffset": 8307,
+                    "startOffset": 11000,
                     "endColumn": 65,
-                    "endOffset": 8368
+                    "endOffset": 11061
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2474,11 +2854,11 @@
             },
             {
                 "to": {
-                    "startLine": 132,
+                    "startLine": 152,
                     "startColumn": 4,
-                    "startOffset": 8373,
+                    "startOffset": 11066,
                     "endColumn": 56,
-                    "endOffset": 8425
+                    "endOffset": 11118
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2493,11 +2873,11 @@
             },
             {
                 "to": {
-                    "startLine": 133,
+                    "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 8430,
+                    "startOffset": 11123,
                     "endColumn": 55,
-                    "endOffset": 8481
+                    "endOffset": 11174
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2512,11 +2892,11 @@
             },
             {
                 "to": {
-                    "startLine": 134,
+                    "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 8486,
+                    "startOffset": 11179,
                     "endColumn": 48,
-                    "endOffset": 8530
+                    "endOffset": 11223
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2531,11 +2911,11 @@
             },
             {
                 "to": {
-                    "startLine": 135,
+                    "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 8535,
+                    "startOffset": 11228,
                     "endColumn": 57,
-                    "endOffset": 8588
+                    "endOffset": 11281
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2550,11 +2930,11 @@
             },
             {
                 "to": {
-                    "startLine": 136,
+                    "startLine": 156,
                     "startColumn": 4,
-                    "startOffset": 8593,
+                    "startOffset": 11286,
                     "endColumn": 45,
-                    "endOffset": 8634
+                    "endOffset": 11327
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2569,11 +2949,11 @@
             },
             {
                 "to": {
-                    "startLine": 137,
+                    "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 8639,
+                    "startOffset": 11332,
                     "endColumn": 44,
-                    "endOffset": 8679
+                    "endOffset": 11372
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2588,11 +2968,11 @@
             },
             {
                 "to": {
-                    "startLine": 138,
+                    "startLine": 158,
                     "startColumn": 4,
-                    "startOffset": 8684,
+                    "startOffset": 11377,
                     "endColumn": 47,
-                    "endOffset": 8727
+                    "endOffset": 11420
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2607,11 +2987,11 @@
             },
             {
                 "to": {
-                    "startLine": 139,
+                    "startLine": 159,
                     "startColumn": 4,
-                    "startOffset": 8732,
+                    "startOffset": 11425,
                     "endColumn": 45,
-                    "endOffset": 8773
+                    "endOffset": 11466
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2626,11 +3006,11 @@
             },
             {
                 "to": {
-                    "startLine": 140,
+                    "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 8778,
+                    "startOffset": 11471,
                     "endColumn": 45,
-                    "endOffset": 8819
+                    "endOffset": 11512
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2645,11 +3025,11 @@
             },
             {
                 "to": {
-                    "startLine": 141,
+                    "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 8824,
+                    "startOffset": 11517,
                     "endColumn": 45,
-                    "endOffset": 8865
+                    "endOffset": 11558
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2664,11 +3044,11 @@
             },
             {
                 "to": {
-                    "startLine": 142,
+                    "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 8870,
+                    "startOffset": 11563,
                     "endColumn": 46,
-                    "endOffset": 8912
+                    "endOffset": 11605
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2683,11 +3063,11 @@
             },
             {
                 "to": {
-                    "startLine": 143,
+                    "startLine": 163,
                     "startColumn": 4,
-                    "startOffset": 8917,
+                    "startOffset": 11610,
                     "endColumn": 51,
-                    "endOffset": 8964
+                    "endOffset": 11657
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2702,11 +3082,11 @@
             },
             {
                 "to": {
-                    "startLine": 144,
+                    "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 8969,
+                    "startOffset": 11662,
                     "endColumn": 48,
-                    "endOffset": 9013
+                    "endOffset": 11706
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
@@ -2721,11 +3101,11 @@
             },
             {
                 "to": {
-                    "startLine": 145,
+                    "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 9018,
+                    "startOffset": 11711,
                     "endColumn": 100,
-                    "endOffset": 9114
+                    "endOffset": 11807
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -2740,11 +3120,11 @@
             },
             {
                 "to": {
-                    "startLine": 146,
+                    "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 9119,
+                    "startOffset": 11812,
                     "endColumn": 66,
-                    "endOffset": 9181
+                    "endOffset": 11874
                 },
                 "from": {
                     "file": "C:\\Users\\SQISOFT\\AndroidStudioProjects\\android\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",

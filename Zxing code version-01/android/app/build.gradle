@@ -19,4 +19,6 @@ android {
 }
 dependencies {
     compile 'com.android.support:appcompat-v7:23.+'
+    compile 'com.google.android.gms:play-services-appindexing:9.4.0'
+
 }

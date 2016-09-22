@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:16:1-200:12
+ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:16:1-206:12
 	package
 		ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:17:5-46
 		INJECTED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml
@@ -25,6 +25,24 @@ MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\SQISOF
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
@@ -107,13 +125,31 @@ ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidMa
 	android:name
 		ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:50:30-85
 application
-ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:52:5-198:19
+ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:52:5-204:19
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:55:9-41
@@ -272,8 +308,43 @@ ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidMa
 	android:name
 		ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:191:27-74
 activity#com.google.zxing.client.android.list.ListActivity
-ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:194:9-197:20
+ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:195:9-198:20
 	android:theme
-		ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:195:13-51
+		ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:197:13-51
 	android:name
-		ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:194:19-52
+		ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:196:13-46
+activity#com.google.zxing.client.android.list.AllList.AllListActivity
+ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:200:9-202:20
+	android:theme
+		ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:201:13-51
+	android:name
+		ADDED from C:\Users\SQISOFT\AndroidStudioProjects\android\app\src\main\AndroidManifest.xml:200:19-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:22:13-58
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\AndroidManifest.xml:9:13-58

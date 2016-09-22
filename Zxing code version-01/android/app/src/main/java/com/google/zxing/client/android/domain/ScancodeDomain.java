@@ -5,12 +5,20 @@ package com.google.zxing.client.android.domain;
  */
 public class ScancodeDomain {
 
+    int index;
     private String barcode;
     private String QRcode;
 
     public ScancodeDomain() {
         barcode = "디폴트";
         QRcode = "디폴트";
+    }
+
+    public ScancodeDomain(int index, String QRcode , String barcode) {
+        this.index = index;
+        this.QRcode = QRcode;
+        this.barcode = barcode;
+
     }
 
     public String getQRcode() {
@@ -29,6 +37,12 @@ public class ScancodeDomain {
         this.barcode = barcode;
     }
 
+    public int getIndex() {
+        return index;
+    }
 
+    public void setIndex(int index) {
+        this.index = index;
+    }
 
 }

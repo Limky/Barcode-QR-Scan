@@ -1,3 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_fed4f4202e6d206bd23c4a743f6f01d451dff934\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_d301f22a4de166e391dbd99cf1f7a180712e222f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SQISOFT\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_9c659493e2c6bcf735bee227e942607f869db97d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_398d9535081ff4a1b90b15ad920e83c327b155ae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_70c1f12651ebae10ddf634ca0ac69108785e86ad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_036d1f3619ef89c7b1f64d56139ab14644a8ed14\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_659c3d0cf7a8ef11f8793ea0e28cde79ee613de5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_3ef8068447e353ef7de6217400ad918f250c826b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8481c8cf266a7b2a6a62972064e2dbc837feb1f1">
+        <dex dex="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2fc5ab05e53ebc7fa68947a7102b1d22d9e7d550\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_2bcc8285abee103a593ae5bc5ae585c2692ff579\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8f16f14c95d32a6a33e8cfd96ab486cc720a83e3">
+        <dex dex="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_696f7832a937c7a8194d9413d1b427775db4fec0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_858f6346c20dceb3b6c1bdd256597920de4cc2fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_17cf56db6836154e52bf05c80c0be08e73ad0e01\classes.dex" />
+    </item>
+
+</items>

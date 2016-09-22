@@ -9,6 +9,7 @@ import android.widget.Toast;
 
 import com.google.zxing.client.android.CaptureActivity;
 import com.google.zxing.client.android.R;
+import com.google.zxing.client.android.list.AllList.AllListActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -40,7 +41,10 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(getApplicationContext(),"리스트 버튼 클릭.",Toast.LENGTH_SHORT).show();
-
+                Intent intent = new Intent(
+                        getApplicationContext(), // 현재 화면의 제어권자
+                        AllListActivity.class); // 다음 넘어갈 클래스 지정
+                startActivity(intent); // 다음 화면으로 넘어간다
             }
         });
 
