@@ -45,4 +45,9 @@ public class ScancodeDomain {
         this.index = index;
     }
 
+    @Override
+    public String toString() {
+        return "\nindex " + index +"\n\n" + "QRcode  = " + QRcode + "\n\n" + "Barcode = " + barcode+"\n";
+    }
+
 }

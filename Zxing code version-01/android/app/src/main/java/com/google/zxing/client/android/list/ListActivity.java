@@ -10,10 +10,10 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.zxing.client.android.CaptureActivity;
 import com.google.zxing.client.android.R;
 import com.google.zxing.client.android.database.DBmanager;
 import com.google.zxing.client.android.domain.ScancodeDomain;
+import com.google.zxing.client.android.main.MainActivity;
 
 public class ListActivity extends AppCompatActivity {
 
@@ -82,7 +82,7 @@ public class ListActivity extends AppCompatActivity {
 
         Intent intent = new Intent(
                 getApplicationContext(), // 현재 화면의 제어권자
-                CaptureActivity.class); // 다음 넘어갈 클래스 지정
+                MainActivity.class); // 다음 넘어갈 클래스 지정
         startActivity(intent); // 다음 화면으로 넘어간다
 
     }

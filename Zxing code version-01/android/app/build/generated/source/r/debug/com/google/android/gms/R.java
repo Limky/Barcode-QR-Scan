@@ -122,6 +122,7 @@ public final class R {
 		public static final int adjust_height = 0x7f0e0030;
 		public static final int adjust_width = 0x7f0e0031;
 		public static final int auto = 0x7f0e0044;
+		public static final int button = 0x7f0e0076;
 		public static final int contact = 0x7f0e002a;
 		public static final int dark = 0x7f0e0045;
 		public static final int demote_common_words = 0x7f0e003b;
@@ -148,7 +149,7 @@ public final class R {
 		public static final int radio = 0x7f0e0061;
 		public static final int rfc822 = 0x7f0e0039;
 		public static final int standard = 0x7f0e0042;
-		public static final int text = 0x7f0e009f;
+		public static final int text = 0x7f0e00a4;
 		public static final int text1 = 0x7f0e0027;
 		public static final int text2 = 0x7f0e0028;
 		public static final int thing_proto = 0x7f0e0029;

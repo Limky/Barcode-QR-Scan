@@ -4,6 +4,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
+import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
@@ -38,6 +39,14 @@ public class DBmanager {
 
     }
 
+    public DBmanager() {
+
+    }
+
+    public void DeleteDataBase(){
+        this.context.deleteDatabase(DB_NAME);
+    }
+
 
     // Opener of DB and Table
     private class OpenHelper extends SQLiteOpenHelper {
@@ -56,8 +65,6 @@ public class DBmanager {
         // 생성된 DB가 없을 경우에 한번만 호출됨
         @Override
         public void onCreate(SQLiteDatabase db) {
-            // String dropSql = "drop table if exists " + tableName;
-            // db.execSQL(dropSql);
 
             String createTableSQL = "create table " + TABLE_NAME + "(id integer primary key autoincrement," + "QRcode text not null," + "Barcode text not null)";
             try {
@@ -102,23 +109,42 @@ public class DBmanager {
 
         Log.i("database test", " ***************=================Data 직접 가져와서 리스트에 담았다.***************=================");
 
-        String selectAllSQL = "select * from" + TABLE_NAME + ";";
-        Cursor results = db.rawQuery(selectAllSQL,null);
-
-        results.moveToFirst();
+        String selectAllSQL = "select * from " + TABLE_NAME + ";";
         ArrayList<ScancodeDomain> infos = new ArrayList<ScancodeDomain>();
 
-        while(!results.isAfterLast()){
+   try {
+       Cursor results = db.rawQuery(selectAllSQL, null);
+       results.moveToFirst();
 
-            ScancodeDomain scancodeDomain = new ScancodeDomain(results.getInt(0), results.getString(1), results.getString(2));
-            infos.add(scancodeDomain);
-            results.moveToNext();
+       while (!results.isAfterLast()) {
 
-        }
+           ScancodeDomain scancodeDomain = new ScancodeDomain(results.getInt(0), results.getString(1), results.getString(2));
+           infos.add(scancodeDomain);
+           results.moveToNext();
+       }
+       results.close();
 
-        results.close();
+
+      }catch (SQLiteException e){
+            Log.i("Table 조회시 에러 발생",e.getMessage());
+            return null;
+     }
         return infos;
     }
+
+    public void DeleteTable (){
+        db.execSQL("DROP TABLE IF EXISTS "+TABLE_NAME);
+
+    }
+
+    public void DeleteTableRow (String row){
+      Log.i("row ================ ","row ="+row);
+       db.execSQL("DELETE FROM "+TABLE_NAME+" where id = 1");
+  /*      db.delete(TABLE_NAME,
+                "id = ?",new String[] {row} );*/
+
+    }
+
 
 
 }
