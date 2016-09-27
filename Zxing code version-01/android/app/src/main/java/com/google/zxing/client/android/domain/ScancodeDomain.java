@@ -8,17 +8,28 @@ public class ScancodeDomain {
     int index;
     private String barcode;
     private String QRcode;
+    private String Scantime;
 
     public ScancodeDomain() {
         barcode = "디폴트";
         QRcode = "디폴트";
+        Scantime = "777";
     }
 
-    public ScancodeDomain(int index, String QRcode , String barcode) {
+    public ScancodeDomain(int index, String QRcode , String barcode, String Scantime) {
         this.index = index;
         this.QRcode = QRcode;
         this.barcode = barcode;
+        this.Scantime = Scantime;
 
+    }
+
+    public String getScantime() {
+        return Scantime;
+    }
+
+    public void setScantime(String Scantime) {
+        this.Scantime = Scantime;
     }
 
     public String getQRcode() {

@@ -15,6 +15,10 @@ import com.google.zxing.client.android.database.DBmanager;
 import com.google.zxing.client.android.domain.ScancodeDomain;
 import com.google.zxing.client.android.main.MainActivity;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Locale;
+
 public class ListActivity extends AppCompatActivity {
 
     private ScancodeDomain scancodeDomain;
@@ -56,9 +60,18 @@ public class ListActivity extends AppCompatActivity {
         saveButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-           //     Toast.makeText(getApplicationContext(),"저장버튼"+barcode+"==="+QRcode,Toast.LENGTH_SHORT).show();
+
+                String Scantime;
+                //파일 이름 :날짜_시간
+                Date day = new Date();
+                SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd_HHmmss", Locale.KOREA);
+                Scantime = String.valueOf(sdf.format(day));
+                scancodeDomain.setScantime(Scantime);
+
+                //     Toast.makeText(getApplicationContext(),"저장버튼"+barcode+"==="+QRcode,Toast.LENGTH_SHORT).show();
                 dbmanager.insertData(scancodeDomain);
                 moveCaptureActivity();
+                finish();
 
             }
         });
@@ -70,6 +83,7 @@ public class ListActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Toast.makeText(getApplicationContext(),"취소버튼",Toast.LENGTH_SHORT).show();
                 moveCaptureActivity();
+                finish();
             }
         });
 

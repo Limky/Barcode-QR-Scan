@@ -39,10 +39,6 @@ public class DBmanager {
 
     }
 
-    public DBmanager() {
-
-    }
-
     public void DeleteDataBase(){
         this.context.deleteDatabase(DB_NAME);
     }
@@ -66,7 +62,7 @@ public class DBmanager {
         @Override
         public void onCreate(SQLiteDatabase db) {
 
-            String createTableSQL = "create table " + TABLE_NAME + "(id integer primary key autoincrement," + "QRcode text not null," + "Barcode text not null)";
+            String createTableSQL = "create table " + TABLE_NAME + "(id integer primary key autoincrement," + "QRcode text not null," + "Barcode text not null," + "ScanTime text not null)";
             try {
                 db.execSQL(createTableSQL);
                 Log.i("databasetest", TABLE_NAME + "***************=================Table create***************=================");
@@ -80,7 +76,7 @@ public class DBmanager {
 
     // 데이터 추가
     public void insertData(ScancodeDomain scancodeDomain) {
-        String sql = "insert into " + TABLE_NAME + " " + "(QRcode, Barcode) values( '" + scancodeDomain.getQRcode() + "', '" + scancodeDomain.getBarcode() +"');";
+        String sql = "insert into " + TABLE_NAME + " " + "(QRcode, Barcode, ScanTime) values( '" + scancodeDomain.getQRcode() + "', '" + scancodeDomain.getBarcode() +"','" + scancodeDomain.getScantime() +"');";
         Log.i("database test", " ***************=================Data Value Insert***************=================");
         db.execSQL(sql);
     }
@@ -98,6 +94,7 @@ public class DBmanager {
             int id = results.getInt(0);
             String DB_QRcode = results.getString(1);
             String DB_Barcode = results.getString(2);
+            String ScanTime = results.getString(3);
             //   Toast.makeText(this, "index= "+id+" QRcode="+DB_QRcode+"Barcode="+DB_Barcode, Toast.LENGTH_LONG).show();
             results.moveToNext();
         }
@@ -118,7 +115,7 @@ public class DBmanager {
 
        while (!results.isAfterLast()) {
 
-           ScancodeDomain scancodeDomain = new ScancodeDomain(results.getInt(0), results.getString(1), results.getString(2));
+           ScancodeDomain scancodeDomain = new ScancodeDomain(results.getInt(0), results.getString(1), results.getString(2), results.getString(3));
            infos.add(scancodeDomain);
            results.moveToNext();
        }
@@ -139,7 +136,7 @@ public class DBmanager {
 
     public void DeleteTableRow (String row){
       Log.i("row ================ ","row ="+row);
-       db.execSQL("DELETE FROM "+TABLE_NAME+" where id = 1");
+       db.execSQL("DELETE FROM "+TABLE_NAME+" where id = "+row);
   /*      db.delete(TABLE_NAME,
                 "id = ?",new String[] {row} );*/
 

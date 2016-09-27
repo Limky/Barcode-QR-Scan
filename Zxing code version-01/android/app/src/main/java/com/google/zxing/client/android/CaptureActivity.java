@@ -677,6 +677,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
         intent.putExtra("QRcode",scancodeDomain.getQRcode());
 /*        intent.putExtra("scancodeDomain", (ScancodeDomain) scancodeDomaind);*/
         startActivity(intent);
+        finish();
 
     }
 
