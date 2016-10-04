@@ -1,0 +1,1 @@
+CHANGED,C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\google\zxing\client\android\list\AllList\CustomAdapter.class

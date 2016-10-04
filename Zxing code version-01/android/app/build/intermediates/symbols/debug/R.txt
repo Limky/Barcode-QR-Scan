@@ -571,10 +571,10 @@ int drawable notification_template_icon_bg 0x7f020079
 int drawable share_via_barcode 0x7f020078
 int id BarcodeText 0x7f0e007c
 int id BarcodeTextInfo 0x7f0e007d
+int id BeaconText 0x7f0e007a
+int id BeaconTextInfo 0x7f0e007b
 int id ListButton 0x7f0e0081
 int id QRcodeButton 0x7f0e008f
-int id QRcodeText 0x7f0e007a
-int id QRcodeTextInfo 0x7f0e007b
 int id ScanButton 0x7f0e0080
 int id action0 0x7f0e009c
 int id action_bar 0x7f0e0067

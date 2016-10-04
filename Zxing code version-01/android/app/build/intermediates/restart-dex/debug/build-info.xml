@@ -4,40 +4,44 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="34579206946765"
-    token="8011653997866458545" >
+    timestamp="4727963560374"
+    token="8011653997866458545"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="271" />
+        duration="292" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="352" />
     <task
         name="instant-run-transform"
-        duration="35" />
+        duration="36" />
     <task
         name="verifier"
-        duration="4" />
+        duration="2" />
 
     <artifact
-        location="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-        type="DEX" />
+        location="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
-    <build timestamp="25469763849317" >
+    <build timestamp="4311021058249" >
         <artifact
             location="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="26964371262244" >
+    <build
+        timestamp="4727963560374"
+        verifier="COMPATIBLE" >
         <artifact
-            location="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="34579206946765" >
+            location="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
         <artifact
-            location="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
+            location="C:\Users\SQISOFT\AndroidStudioProjects\android\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

@@ -1,8 +1,6 @@
 package com.google.zxing.client.android.list;
 
-import android.content.Context;
 import android.content.Intent;
-import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -22,12 +20,8 @@ import java.util.Locale;
 public class ListActivity extends AppCompatActivity {
 
     private ScancodeDomain scancodeDomain;
-    private TextView QRcodeTextView, BarcodeTextView;
-    private SQLiteDatabase db;
-    public String DB_NAME = "ScanDataBase";
-    public int DB_MODE = Context.MODE_PRIVATE;
-    public String TABLE_NAME = "scanTable";
-    public String barcode,QRcode;
+    private TextView BeaconTextView, BarcodeTextView;
+    public String barcode,Beacon;
     private Button saveButton,cancelButton;
 
     private DBmanager dbmanager;
@@ -42,17 +36,17 @@ public class ListActivity extends AppCompatActivity {
 
         Intent intent = getIntent();
         barcode = (String) intent.getSerializableExtra("barcode");
-        QRcode = (String) intent.getSerializableExtra("QRcode");
+        Beacon = (String) intent.getSerializableExtra("Beacon");
 
-        /*Toast.makeText(getApplicationContext(),barcode+"==="+QRcode,Toast.LENGTH_SHORT).show();*/
+        /*Toast.makeText(getApplicationContext(),barcode+"==="+Beacon,Toast.LENGTH_SHORT).show();*/
 
         scancodeDomain.setBarcode(barcode);
-        scancodeDomain.setQRcode(QRcode);
+        scancodeDomain.setBeacon(Beacon);
 
-        QRcodeTextView = (TextView) findViewById(R.id.QRcodeTextInfo);
+        BeaconTextView = (TextView) findViewById(R.id.BeaconTextInfo);
         BarcodeTextView = (TextView) findViewById(R.id.BarcodeTextInfo);
 
-        QRcodeTextView.setText(QRcode);
+        BeaconTextView.setText(Beacon);
         BarcodeTextView.setText(barcode);
 
 
@@ -68,7 +62,7 @@ public class ListActivity extends AppCompatActivity {
                 Scantime = String.valueOf(sdf.format(day));
                 scancodeDomain.setScantime(Scantime);
 
-                //     Toast.makeText(getApplicationContext(),"저장버튼"+barcode+"==="+QRcode,Toast.LENGTH_SHORT).show();
+                //     Toast.makeText(getApplicationContext(),"저장버튼"+barcode+"==="+Beacon,Toast.LENGTH_SHORT).show();
                 dbmanager.insertData(scancodeDomain);
                 moveCaptureActivity();
                 finish();

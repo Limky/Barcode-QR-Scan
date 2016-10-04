@@ -25,7 +25,7 @@ public class DBmanager {
     public static final String TABLE_NAME = "scanTable";
     public static final int dbVersion = 1;
 
-    public String barcode, QRcode;
+    public String barcode, Beacon;
 
     // DB관련 객체 선언
     private OpenHelper opener; // DB opener
@@ -41,6 +41,7 @@ public class DBmanager {
 
     public void DeleteDataBase(){
         this.context.deleteDatabase(DB_NAME);
+//        DeleteTable();
     }
 
 
@@ -62,7 +63,7 @@ public class DBmanager {
         @Override
         public void onCreate(SQLiteDatabase db) {
 
-            String createTableSQL = "create table " + TABLE_NAME + "(id integer primary key autoincrement," + "QRcode text not null," + "Barcode text not null," + "ScanTime text not null)";
+            String createTableSQL = "create table " + TABLE_NAME + "(id integer primary key autoincrement," + "Beacon text not null," + "Barcode text not null," + "ScanTime text not null)";
             try {
                 db.execSQL(createTableSQL);
                 Log.i("databasetest", TABLE_NAME + "***************=================Table create***************=================");
@@ -76,7 +77,7 @@ public class DBmanager {
 
     // 데이터 추가
     public void insertData(ScancodeDomain scancodeDomain) {
-        String sql = "insert into " + TABLE_NAME + " " + "(QRcode, Barcode, ScanTime) values( '" + scancodeDomain.getQRcode() + "', '" + scancodeDomain.getBarcode() +"','" + scancodeDomain.getScantime() +"');";
+        String sql = "insert into " + TABLE_NAME + " " + "(Beacon, Barcode, ScanTime) values( '" + scancodeDomain.getBeacon() + "', '" + scancodeDomain.getBarcode() +"','" + scancodeDomain.getScantime() +"');";
         Log.i("database test", " ***************=================Data Value Insert***************=================");
         db.execSQL(sql);
     }
@@ -92,10 +93,10 @@ public class DBmanager {
 
         while(!results.isAfterLast()){
             int id = results.getInt(0);
-            String DB_QRcode = results.getString(1);
+            String DB_Beacon = results.getString(1);
             String DB_Barcode = results.getString(2);
             String ScanTime = results.getString(3);
-            //   Toast.makeText(this, "index= "+id+" QRcode="+DB_QRcode+"Barcode="+DB_Barcode, Toast.LENGTH_LONG).show();
+            //   Toast.makeText(this, "index= "+id+" Beacon="+DB_Beacon+"Barcode="+DB_Barcode, Toast.LENGTH_LONG).show();
             results.moveToNext();
         }
         results.close();

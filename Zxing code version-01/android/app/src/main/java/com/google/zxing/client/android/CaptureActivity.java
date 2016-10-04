@@ -120,7 +120,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
   private Button QRcodeButton;
   private boolean statusQR;
   public  ScancodeDomain scancodeDomain;
-
+  public  boolean status = false;
   private CheckBoxPreference preferences_decode_QRence;
 
 
@@ -164,6 +164,19 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
 
   }
 
+  public void restartScanning(){
+
+   statusQR = !statusQR;
+  if (source == IntentSource.NATIVE_APP_INTENT) {
+    setResult(RESULT_CANCELED);
+    finish();
+  }
+  if ((source == IntentSource.NONE || source == IntentSource.ZXING_LINK) && lastResult != null) {
+    restartPreviewAfterDelay(0L);
+
+  }
+
+}
 
   private Button.OnClickListener QRcodeScan_Listener = new Button.OnClickListener()
   {
@@ -633,14 +646,14 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
 
     if(statusQR){
 
-      scancodeDomain.setQRcode(displayContents.toString());
+      scancodeDomain.setBeacon(displayContents.toString());
     }else{
 
       scancodeDomain.setBarcode(displayContents.toString());
     }
 
 
-    Toast.makeText(getApplicationContext(),scancodeDomain.getBarcode()+"==="+scancodeDomain.getQRcode(),Toast.LENGTH_SHORT).show();
+    Toast.makeText(getApplicationContext(),scancodeDomain.getBarcode()+"==="+scancodeDomain.getBeacon(),Toast.LENGTH_SHORT).show();
 
 
     TextView supplementTextView = (TextView) findViewById(R.id.contents_supplement_text_view);
@@ -667,18 +680,23 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
         button.setVisibility(View.GONE);
       }
     }*/
+
+    //끝지점
+
     Toast.makeText(getApplicationContext(),"결과 출력 끝? 지점.",Toast.LENGTH_SHORT).show();
 
-    if((!scancodeDomain.getQRcode().equals("디폴트") && !scancodeDomain.getBarcode().equals("디폴트"))){
+    if((!scancodeDomain.getBeacon().equals("디폴트") && !scancodeDomain.getBarcode().equals("디폴트"))) {
 
-        statusQR = !statusQR;
-        Intent intent = new Intent(this, ListActivity.class);
-        intent.putExtra("barcode",scancodeDomain.getBarcode());
-        intent.putExtra("QRcode",scancodeDomain.getQRcode());
-/*        intent.putExtra("scancodeDomain", (ScancodeDomain) scancodeDomaind);*/
-        startActivity(intent);
-        finish();
+      statusQR = !statusQR;
+      Intent intent = new Intent(this, ListActivity.class);
+      intent.putExtra("barcode", scancodeDomain.getBarcode());
+      intent.putExtra("Beacon", scancodeDomain.getBeacon());
+/*      intent.putExtra("scancodeDomain", (ScancodeDomain) scancodeDomaind);*/
+      startActivity(intent);
+      finish();
 
+    }else{
+      restartScanning();
     }
 
   }

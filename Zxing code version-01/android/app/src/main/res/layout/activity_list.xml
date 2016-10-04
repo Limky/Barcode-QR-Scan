@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:gravity="center_horizontal"
-        android:text="QRcode-Barcode"
+        android:text="Beacon-Barcode"
         android:textColor="#ffffffff"
         android:textStyle="bold"
         android:textSize="24dp"
@@ -39,21 +39,21 @@
         android:background="#aaffffff">
 
         <TextView
-            android:id="@+id/QRcodeText"
+            android:id="@+id/BeaconText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingTop="4dp"
-            android:text="QR-code : "
+            android:text="Beacon  : "
             android:textStyle="bold"
             android:textColor="#ff222222"
             android:textSize="18dp"/>
 
         <TextView
-            android:id="@+id/QRcodeTextInfo"
+            android:id="@+id/BeaconTextInfo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_toRightOf="@id/QRcodeText"
-            android:layout_alignBaseline="@+id/QRcodeText"
+            android:layout_toRightOf="@id/BeaconText"
+            android:layout_alignBaseline="@+id/BeaconText"
             android:layout_marginLeft="4dp"
             android:textColor="#BF360C"
             android:textSize="14dp"/>
@@ -63,7 +63,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingTop="16dp"
-            android:layout_below="@+id/QRcodeText"
+            android:layout_below="@+id/BeaconText"
             android:textStyle="bold"
             android:text="Barcode : "
             android:textColor="#ff222222"

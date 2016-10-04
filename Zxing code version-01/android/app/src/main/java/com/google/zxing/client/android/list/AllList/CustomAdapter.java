@@ -71,7 +71,7 @@ public class CustomAdapter extends BaseAdapter{
 
             // TextView에 현재 position의 문자열 추가
             TextView text1 = (TextView) convertView.findViewById(R.id.text1);
-            text1.setText("QRcode = "+ScancodeDomain_List.get(position).getQRcode());
+            text1.setText("Beacon  = "+ScancodeDomain_List.get(position).getBeacon());
 
             // TextView에 현재 position의 문자열 추가
             TextView text2 = (TextView) convertView.findViewById(R.id.text2);

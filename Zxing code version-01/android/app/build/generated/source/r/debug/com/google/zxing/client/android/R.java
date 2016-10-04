@@ -2049,10 +2049,10 @@ containing a value of this type.
     public static final class id {
         public static final int BarcodeText=0x7f0e007c;
         public static final int BarcodeTextInfo=0x7f0e007d;
+        public static final int BeaconText=0x7f0e007a;
+        public static final int BeaconTextInfo=0x7f0e007b;
         public static final int ListButton=0x7f0e0081;
         public static final int QRcodeButton=0x7f0e008f;
-        public static final int QRcodeText=0x7f0e007a;
-        public static final int QRcodeTextInfo=0x7f0e007b;
         public static final int ScanButton=0x7f0e0080;
         public static final int action0=0x7f0e009c;
         public static final int action_bar=0x7f0e0067;
